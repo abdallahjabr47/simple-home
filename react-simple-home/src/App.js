@@ -7,13 +7,9 @@ import MainContent from './components/main/MainContent';
 function App() {
   return (
     <div className="App">
-
     <MainHeader />
-
     <MainContent />
-
     <Footer />
-
     </div>
   );
 }

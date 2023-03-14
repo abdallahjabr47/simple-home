@@ -1,0 +1,41 @@
+.article-title {
+    font-size: 1.5rem;
+  }
+  
+  .article-read-more,
+  .article-info {
+    font-size: 0.875rem;
+  }
+  
+  .article-read-more {
+    color: #1792d2;
+    text-decoration: none;
+    font-weight: 700;
+    display: flex;
+    justify-content: flex-start;
+  }
+  
+  .article-read-more:hover,
+  .article-read-more:focus {
+    color: #143774;
+    text-decoration: underline;
+  }
+  
+  .article-info {
+    margin: 2em 0;
+  }
+  
+  .widget-title,
+  .widget-recent-post-title {
+    font-size: 1rem;
+  }
+  
+  .widget-title {
+    font-size: 1rem;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 700;
+  }
+  
+  .widget-recent-post-title {
+    color: #143774;
+  }
