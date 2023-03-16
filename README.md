@@ -6,7 +6,7 @@ _This is a responsive website that scouts its simplicity in life.._
 
 ## Tech Stack
 
-This project have implemented used React framework.
+This project has been implemented using React framework by dividing it into components (Header, Main, and Footer).
 
 
 ## Authors
